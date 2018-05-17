@@ -9,4 +9,8 @@
     right: 42px;
     width: auto;
   }
+
+  #social a {
+    display: inline-block;
+  }
 }
